@@ -8,7 +8,7 @@ This is my first attempt of playing with some [vanilla javascript](http://vanill
 
 ## Try this :poop: out! 
 
-See the application live [here](https://bjarnesoerensen.github.io/Todo-List/)
+See the application live [here](https://bjavascripter.github.io/Todo-List/)
 
 
 ## Project Info
